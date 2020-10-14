@@ -1,6 +1,6 @@
 # ReadMe Generator 
   ## Description
-  Dynamic Readme 
+  Dynamically generating readMe 
   Title | content
 ------------ | -------------
 Content from cell 1 | Content from cell 2
@@ -13,7 +13,10 @@ Content in the first column | Content in the second column
    not Yet  
   ## Test Instructions
    not Yet
+  ## Questions
+   satyakavya24@gmail.com
+   vsatyakavya https://github.com/vsatyakavya
   ## Licence
-   [MPL](https://www.mozilla.org/en-US/MPL/2.0/)
+   [MIT](https://choosealicense.com/licenses/mit/)
   
   

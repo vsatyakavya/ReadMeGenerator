@@ -16,6 +16,9 @@ Content in the first column | Content in the second column
    ${data.guidelines}  
   ## Test Instructions
    ${data.test}
+  ## Questions
+   ${data.email}
+   ${data.github} https://github.com/${data.github}
   ## Licence
    ${data.licence}
   

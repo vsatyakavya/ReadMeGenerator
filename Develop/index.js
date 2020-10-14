@@ -8,7 +8,7 @@ const writeFileAsync = util.promisify(fs.writeFile);
 // array of questions for user
 const questions = ["what is your title", "Give some description", "Give install instructions",
     "what is the usage ", "what are the guidelines ", "Give some test instructions ",
-    "Select the licence "
+    "Select the licence ","Enter your email id","enter your github "
 
 
 ];
@@ -54,6 +54,19 @@ function init() {
                 message: questions[6],
                 name: "licence",
                 choices: licences,
+
+            },
+            {
+                type: "input",
+                message: questions[7],
+                name: "email",
+                
+
+            } ,{
+                type: "input",
+                message: questions[8],
+                name: "github",
+                
 
             }
 
