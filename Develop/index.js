@@ -9,7 +9,7 @@ const generateMarkdown = require("./utils/generateMarkdown");
 
  ];
 function init(){
-const licences= ["[MIT](https://choosealicense.com/licenses/mit/)", "Copyright[2020][Apache](http:www.apache.org/licenses/LICENSE-2.0)", "[BSD](https://choosealicense.com/licenses/Simplified BSD License/)"];
+const licences= ["[MIT](https://choosealicense.com/licenses/mit/)", "Copyright[2020][Apache](http:www.apache.org/licenses/LICENSE-2.0)", "[MPL](https://www.mozilla.org/en-US/MPL/2.0/)"];
 inquirer
 .prompt([
     {
