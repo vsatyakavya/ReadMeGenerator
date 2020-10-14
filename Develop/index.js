@@ -66,7 +66,7 @@ function init() {
                 type: "input",
                 message: questions[8],
                 name: "github",
-                hjk
+                
 
             }
 

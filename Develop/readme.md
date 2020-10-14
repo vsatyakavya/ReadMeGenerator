@@ -1,6 +1,6 @@
-# readme 
+# RedMe Generator 
   ## Description
-  hjk 
+  Dynamic Readme 
 
   LINKS | 
   ------------ | 
@@ -9,15 +9,15 @@
   
  
   ## Installation instructions
-  jkl 
+  Not Yet 
   ## Usage
-  jk 
+  Not Yet 
    ## Contribution
-   jkl  
+   Not Yet  
   ## Test Instructions
-   hjk
+   Not Yet
   ## Questions
-  * ghj
+  * satyakavya24@gmail.com
   * [vsatyakavya] https://github.com/vsatyakavya
   ## Licence
    [MIT](https://choosealicense.com/licenses/mit/)
