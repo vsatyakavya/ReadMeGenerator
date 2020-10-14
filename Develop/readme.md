@@ -4,7 +4,7 @@
 
   LINKS | 
   ------------ | 
-  Content from cell 1 | 
+  [An Internal Link](/creating-content/editing-an-existing-page) | 
   Content in the first column | 
   
  
