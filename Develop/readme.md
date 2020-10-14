@@ -1,19 +1,19 @@
-# generator 
+# ReadMe Generator 
   ## Description
-  dynamic 
+  Dynamic Readme 
   Title | content
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
   ## Installation instructions
-  jkl 
+  not Yet 
   ## Usage
-   jkl; 
+   not Yet 
   ## Contribution
-   hjkl  
+   not Yet  
   ## Test Instructions
-   hjkl
+   not Yet
   ## Licence
-   [MIT](https://choosealicense.com/licenses/mit/)
+   [MPL](https://www.mozilla.org/en-US/MPL/2.0/)
   
   
