@@ -4,7 +4,7 @@
 
   LINKS | 
   ------------ | 
-  [An Internal Link](/creating-content/editing-an-existing-page) | 
+  [An Internal Link](/creating-content/Description) | 
   Content in the first column | 
   
  
