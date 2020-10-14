@@ -4,12 +4,12 @@ function generateMarkdown(data) {
     return `# ${data.title} 
   ## Description
   ${data.description} 
-  Links to contents 
-------------
-Content from cell 1 
-------------
-Content from cell 2 
 
+  First Header | 
+  ------------ | 
+  Content from cell 1 | 
+  Content in the first column | 
+  
  
   ## Installation instructions
   ${data.install} 
