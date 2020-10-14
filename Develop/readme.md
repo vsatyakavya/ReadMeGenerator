@@ -1,6 +1,6 @@
 # RG 
   ## Description
-  DG 
+  DR 
   ## Installation instructions
   na 
   ## Usage
@@ -10,6 +10,6 @@
   ## Test Instructions
    na
   ## Licence
-   http:www.apache.org/licenses/LICENSE-2.0
+   Copyright[2020][Apache](http:www.apache.org/licenses/LICENSE-2.0)
   
   
