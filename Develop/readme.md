@@ -1,21 +1,21 @@
 # ReadMe Generator 
   ## Description
-  Dynamically generating readMe 
+  DGRM 
   Title | content
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
   ## Installation instructions
-  not Yet 
+  Not Yet 
   ## Usage
-   not Yet 
+   Not Yet 
   ## Contribution
-   not Yet  
+   Not Yet  
   ## Test Instructions
-   not Yet
+   Not Yet
   ## Questions
-   satyakavya24@gmail.com
-   vsatyakavya https://github.com/vsatyakavya
+  * satyakavya24@gmail.com
+  * vsatyakavya https://github.com/vsatyakavya
   ## Licence
    [MIT](https://choosealicense.com/licenses/mit/)
   
