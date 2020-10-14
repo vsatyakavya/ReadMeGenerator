@@ -1,6 +1,6 @@
-# ReadMe Generator 
+# RG 
   ## Description
-  Dynamice Readme 
+  DG 
   ## Installation instructions
   na 
   ## Usage
@@ -10,6 +10,6 @@
   ## Test Instructions
    na
   ## Licence
-   [MIT](https://choosealicense.com/licenses/mit/)
+   http:www.apache.org/licenses/LICENSE-2.0
   
   
