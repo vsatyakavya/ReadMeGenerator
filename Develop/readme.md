@@ -1,6 +1,6 @@
-# RedMe Generator 
+# ReadMe Generatot 
   ## Description
-  Dynamic Readme 
+  Dynamic ReadMe 
 
   LINKS | 
   ------------ | 
@@ -17,8 +17,8 @@
   ## Test Instructions
    Not Yet
   ## Questions
-  * satyakavya24@gmail.com
-  * [vsatyakavya] https://github.com/vsatyakavya
+  * satyakavya4@gmail.com
+  * [vsatyakavya] (https://github.com/vsatyakavya)
   ## Licence
    [MIT](https://choosealicense.com/licenses/mit/)
   
