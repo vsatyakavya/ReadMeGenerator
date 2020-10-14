@@ -4,7 +4,7 @@
 
   LINKS | 
   ------------ | 
-  [An Internal Link](/creating-content/satyakavya24@gmail.com) | 
+  [An Internal Link](#questions) | 
   Content in the first column | 
   
  
@@ -21,5 +21,3 @@
   * [vsatyakavya](https://github.com/vsatyakavya)
   ## Licence
    [MIT](https://choosealicense.com/licenses/mit/)
-  
-  
