@@ -1,6 +1,8 @@
 
-    [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-    # r 
+   
+    [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+ 
+  # rg 
   ## Description
   dr 
   ## Installation instructions
