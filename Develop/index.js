@@ -9,8 +9,10 @@ const generateMarkdown = require("./utils/generateMarkdown");
 
  ];
 function init(){
-const licences= ["[MIT](https://choosealicense.com/licenses/mit/)", "Copyright[2020][Apache](http:www.apache.org/licenses/LICENSE-2.0)", "[MPL](https://www.mozilla.org/en-US/MPL/2.0/)"];
-inquirer
+
+    const licences= ["[MIT](https://choosealicense.com/licenses/mit/)", "Copyright[2020][Apache](http:www.apache.org/licenses/LICENSE-2.0)", "[MPL](https://www.mozilla.org/en-US/MPL/2.0/)"];
+//   const badges=[![License](https,//img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+    inquirer
 .prompt([
     {
         type:"input",
@@ -46,7 +48,8 @@ inquirer
         type:"list",
         message:questions[6],
         name: "licence",
-        choices:licences
+        choices:licences,
+        
     }
 ]).then(function(data){
 //   var fileName = data.title.toLowerCase().split(' ').join('')+".json";
