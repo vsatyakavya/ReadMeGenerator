@@ -5,7 +5,7 @@ function generateMarkdown(data) {
   ## Description
   ${data.description} 
 
-  First Header | 
+  LINKS | 
   ------------ | 
   Content from cell 1 | 
   Content in the first column | 
@@ -21,7 +21,7 @@ function generateMarkdown(data) {
    ${data.test}
   ## Questions
   * ${data.email}
-  * ${data.github} https://github.com/${data.github}
+  * [${data.github}] https://github.com/${data.github}
   ## Licence
    ${data.licence}
   
