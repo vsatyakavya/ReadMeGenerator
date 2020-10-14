@@ -1,15 +1,15 @@
 # ReadMe Generator 
   ## Description
-  * It generates the dynamic ReadMe 
+  Dynamice Readme 
   ## Installation instructions
-  * Not Yet 
+  na 
   ## Usage
-  * Not Yet 
+   na 
   ## Contribution
-  * Not Yet  
+   na  
   ## Test Instructions
-  * Working on it
+   na
   ## Licence
-  * licence1
+   [MIT](https://choosealicense.com/licenses/mit/)
   
   
