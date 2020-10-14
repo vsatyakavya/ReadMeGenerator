@@ -1,9 +1,10 @@
-# readme generator 
-    generating readme
-    install libraries 
-    generating dynamic readme 
-    not yet
-    not yet
-     undefined
+# hjk 
+  ## Description
+  ## ui 
+  ## rt 
+  ## ghj 
+  ## rt
+   gh
+  ## licence3
   
   
