@@ -1,11 +1,18 @@
-# ReadMe Generatot 
+# ReadMe Generator 
   ## Description
-  Dynamic ReadMe 
+  Dyamic ReadMe 
 
   LINKS | 
   ------------ | 
-  [An Internal Link](#questions) | 
-  Content in the first column | 
+  [Description](#description) | 
+  [Installation Instructions](#installation-instructions) | 
+  [Usage](#usage) | 
+  [Contribution](#contribution) | 
+  [Test Instructions](#test-instructions) | 
+  [Questions](#questions) | 
+  [Licence](#licence) | 
+  
+
   
  
   ## Installation instructions
@@ -15,9 +22,11 @@
    ## Contribution
    Not Yet  
   ## Test Instructions
-   Not Yet
+   NotYet
   ## Questions
-  * satyakavya4@gmail.com
-  * [vsatyakavya](https://github.com/vsatyakavya)
+  * satyakavya24@gmail.com
+  * [vsatyakavya] (https://github.com/vsatyakavya
   ## Licence
    [MIT](https://choosealicense.com/licenses/mit/)
+  
+  

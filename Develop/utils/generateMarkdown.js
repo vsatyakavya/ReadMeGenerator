@@ -7,8 +7,15 @@ function generateMarkdown(data) {
 
   LINKS | 
   ------------ | 
-  Content from cell 1 | 
-  Content in the first column | 
+  [Description](#description) | 
+  [Installation Instructions](#installation-instructions) | 
+  [Usage](#usage) | 
+  [Contribution](#contribution) | 
+  [Test Instructions](#test-instructions) | 
+  [Questions](#questions) | 
+  [Licence](#licence) | 
+  
+
   
  
   ## Installation instructions
@@ -21,7 +28,7 @@ function generateMarkdown(data) {
    ${data.test}
   ## Questions
   * ${data.email}
-  * [${data.github}] (https://github.com/${data.github})
+  * [${data.github}] (https://github.com/${data.github}
   ## Licence
    ${data.licence}
   
