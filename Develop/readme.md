@@ -1,15 +1,15 @@
 # ReadMe Generator 
   ## Description
-  It generates the dynamic ReadMe 
+  * It generates the dynamic ReadMe 
   ## Installation instructions
-  Not Yet 
+  * Not Yet 
   ## Usage
-   Not Yet 
+  * Not Yet 
   ## Contribution
-   Not Yet  
+  * Not Yet  
   ## Test Instructions
-   Working on it
+  * Working on it
   ## Licence
-   licence1
+  * licence1
   
   
