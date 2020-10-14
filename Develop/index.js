@@ -9,9 +9,10 @@ const generateMarkdown = require("./utils/generateMarkdown");
 
  ];
 function init(){
-
+    
     const licences= ["[MIT](https://choosealicense.com/licenses/mit/)", "Copyright[2020][Apache](http:www.apache.org/licenses/LICENSE-2.0)", "[MPL](https://www.mozilla.org/en-US/MPL/2.0/)"];
-//   const badges=[![License](https,//img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+   
+//   const badges=[ [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)]]
     inquirer
 .prompt([
     {
@@ -51,6 +52,11 @@ function init(){
         choices:licences,
         
     }
+    // {
+    //     type:"input",
+    //     message:"Enter your github username",
+    //     name:"username"
+    // }
 ]).then(function(data){
 //   var fileName = data.title.toLowerCase().split(' ').join('')+".json";
 
