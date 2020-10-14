@@ -1,4 +1,4 @@
-# rm 
+# rg 
   ## Description
   dr 
   ## Installation instructions
@@ -10,6 +10,6 @@
   ## Test Instructions
    na
   ## Licence
-   Copyright[2020][Apache](http:www.apache.org/licenses/LICENSE-2.0)
+   [MPL](https://www.mozilla.org/en-US/MPL/2.0/)
   
   
