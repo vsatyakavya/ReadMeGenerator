@@ -25,7 +25,7 @@
    NotYet
   ## Questions
   * satyakavya24@gmail.com
-  * [vsatyakavya] (https://github.com/vsatyakavya
+  * [vsatyakavya](https://github.com/vsatyakavya)
   ## Licence
    [MIT](https://choosealicense.com/licenses/mit/)
   

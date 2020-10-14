@@ -28,7 +28,7 @@ function generateMarkdown(data) {
    ${data.test}
   ## Questions
   * ${data.email}
-  * [${data.github}] (https://github.com/${data.github}
+  * [${data.github}](https://github.com/${data.github}
   ## Licence
    ${data.licence}
   
