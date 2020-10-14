@@ -1,6 +1,6 @@
-# RG 
+# rm 
   ## Description
-  DR 
+  dr 
   ## Installation instructions
   na 
   ## Usage
@@ -10,6 +10,6 @@
   ## Test Instructions
    na
   ## Licence
-   [BSD](https://choosealicense.com/licenses/Simplified BSD License/)
+   Copyright[2020][Apache](http:www.apache.org/licenses/LICENSE-2.0)
   
   
