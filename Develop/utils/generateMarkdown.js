@@ -2,7 +2,8 @@
 function generateMarkdown(data) {
  
     return `
-    [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)# ${data.title} 
+    [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+    # ${data.title} 
   ## Description
   ${data.description} 
   ## Installation instructions
