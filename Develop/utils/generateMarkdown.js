@@ -1,10 +1,10 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
- 
+
     return `# ${data.title} 
   ## Description
   ${data.description} 
-  First Header | Second Header
+ # ${data.title} | ## Description
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
