@@ -2,7 +2,7 @@
 [![Github license](https://img.shields.io/badge/License-MIT-yellowgreen)](https://choosealicense.com/licenses/MIT/)
   
   ## Description
-  DR 
+  This application creates the dynamic ReadMe based on the user input.This application aska the user as  command line arguments,Then passes the answers to the js file which creates readMe dynamically using markdown and string template.
 
   LINKS | 
   ------------ | 
@@ -18,16 +18,16 @@
   
  
   ## Installation instructions
-  not yet 
+  Install Node Module , package.json , .gitignore ,vscode, 
   ## Usage
-  not yet 
+  It creates readme dynamically. so, it saves time and user-friendly 
    ## Contribution
-   not yet  
+   After created the .js file , install package.json then package-lock.json,node-modules  
   ## Test Instructions
-   not yet
+   npm install --To get the package.json,  npm install ----to get the node_modules 
   ## Questions
   * satyakavya24@gmail.com
-  * [vsatyakavya](https://github.com/vsatyakavya
+  * [vsatyakavya](https://github.com/vsatyakavya)
   ## Licence
    [MIT](https://choosealicense.com/licenses/MIT/)"
   
