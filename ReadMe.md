@@ -1,4 +1,4 @@
-# ReadMe Generator
+
 # ReadMe Generator 
 [![Github license](https://img.shields.io/badge/License-MIT-yellowgreen)](https://choosealicense.com/licenses/MIT/)
   
@@ -28,7 +28,7 @@
    not yet
   ## Questions
   * satyakavya24@gmail.com
-  * [vsatyakavya](https://github.com/vsatyakavya
+  * [vsatyakavya](https://github.com/vsatyakavya)
   ## Licence
    [MIT](https://choosealicense.com/licenses/MIT/)"
   
