@@ -14,9 +14,8 @@ const questions = ["what is your title", "Give some description", "Give install 
 ];
 function init() {
     
-    const licences = [ "[MIT](https://choosealicense.com/licenses/mit/)" , "Copyright[2020][Apache](http:www.apache.org/licenses/LICENSE-2.0)", "[MPL](https://www.mozilla.org/en-US/MPL/2.0/)"];
+    const licences = [ "MIT","Apache-2.0","GPL-2.0"];
 
-    //   const badges=[ [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)]]
   return  inquirer
         .prompt([
             {

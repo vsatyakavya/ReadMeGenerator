@@ -1,6 +1,8 @@
 # ReadMe Generator 
+[![Github license](https://img.shields.io/badge/License-MIT-yellowgreen)](https://choosealicense.com/licenses/MIT/)
+  
   ## Description
-  Dyamic ReadMe 
+  DR 
 
   LINKS | 
   ------------ | 
@@ -16,17 +18,17 @@
   
  
   ## Installation instructions
-  Not Yet 
+  not yet 
   ## Usage
-  Not Yet 
+  not yet 
    ## Contribution
-   Not Yet  
+   not yet  
   ## Test Instructions
-   NotYet
+   not yet
   ## Questions
   * satyakavya24@gmail.com
-  * [vsatyakavya](https://github.com/vsatyakavya)
+  * [vsatyakavya](https://github.com/vsatyakavya
   ## Licence
-   [MIT](https://choosealicense.com/licenses/mit/)
+   [MIT](https://choosealicense.com/licenses/MIT/)"
   
   
