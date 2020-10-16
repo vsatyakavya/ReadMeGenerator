@@ -1,5 +1,5 @@
-var inquirer = require("inquirer");
-var fs = require('fs');
+const inquirer = require("inquirer");
+const fs = require('fs');
 const generateMarkdown = require("./utils/generateMarkdown");
 const util = require("util");
 
@@ -14,7 +14,7 @@ const questions = ["what is your title", "Give some description", "Give install 
 ];
 function init() {
     
-    const licences = [ "MIT","Apache-2.0","GPL-2.0"];
+    const licences = [ "mit","apache","unlicense"];
 
   return  inquirer
         .prompt([
@@ -70,34 +70,10 @@ function init() {
             }
 
         ]);
-    // .then(function(data){
-    //    var result =(generateMarkdown(data));
-    //    writeToFile("README.md", result);
-    //       console.log("success");
-    //     })
+   
 }
 
-
-
-
-// function to write README file
-// function writeToFile(fileName, data) {
-//     fs.writeFile(fileName,data+"\n",function(err){
-//         if(err){
-//             console.log(err)
-//         }
-//         else{
-//             console.log("success2");
-//         }
-//     })
-// }
-
-// // function to initialize program
-// function init() {
-
-// }
-
-// // function call to initialize program
+//Pushing the answers to another js file to create ReadMe dynamically using promises
 init()
     .then(function (data) {
         var mdFormat = (generateMarkdown(data));
