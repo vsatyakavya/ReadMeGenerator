@@ -22,7 +22,7 @@
   ## Usage
   It creates readme dynamically. so, it saves time and user-friendly.
    ## Contribution
-   varri Satya Kavya 
+   Varri Satya Kavya 
   ## Test Instructions
    After created the .js file , install package.json then package-lock.json,node-modules
    npm init --To get the package.json, 

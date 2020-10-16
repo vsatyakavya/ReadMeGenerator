@@ -40,11 +40,11 @@
 * Add links
 
 
-# Sample web page
+# Sample Dynamic ReadMe
 ![picture](Assets/ReadMe.png)
 
 # Github Repository
-https://github.com/vsatyakavya/ReadMeGenerator.github.io
+https://github.com/vsatyakavya/ReadMeGenerator
 
 # contact Information
 satyakavya24@gmail.com
