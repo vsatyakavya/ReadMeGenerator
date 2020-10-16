@@ -41,13 +41,7 @@
 
 
 # Sample web page
-![picture](Assets/quiz.png)
-![picture](Assets/quizGameresult.png)
-
-
-
-
-
+![picture](Assets/ReadMe.png)
 
 # Github Repository
 https://github.com/vsatyakavya/ReadMeGenerator.github.io
