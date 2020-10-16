@@ -7,7 +7,7 @@
 * Dynamic ReadMe Generator
 
 # Technologies used:
-*  JavaScript, node JS, ES6, Markdown
+*  JavaScript, Markdown
 
 # Features:
 
