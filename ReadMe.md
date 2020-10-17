@@ -7,12 +7,15 @@
 * Dynamic ReadMe Generator
 
 # Technologies used:
-*  JavaScript, Markdown
+*  JavaScript, Markdown , ES6
 
 # Features:
 
 * Generstes Dynamic ReadMe based on user input
 * CLI Apllication
+* Object Destructuring
+* String Template
+* Promises
 * User-friendly  
 * Saves user time 
 * Sections of ReadMe are 
