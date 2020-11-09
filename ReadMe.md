@@ -11,7 +11,7 @@
 
 # Features:
 
-* Generstes Dynamic ReadMe based on user input
+* Generates Dynamic ReadMe based on user input
 * CLI Apllication
 * Object Destructuring
 * String Template
